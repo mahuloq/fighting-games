@@ -1,7 +1,10 @@
+body {
+    display: ;
+}
+
 .banner {
     width: 1000px;
     height: auto;
-    
 }
 
 h1 {
@@ -13,4 +16,15 @@ h1 {
 img {
     width: 600px;
     height: auto;
+    justify-content: center;
+    padding-bottom: 16px;
+    
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
 }
